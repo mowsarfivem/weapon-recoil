@@ -8,7 +8,7 @@ Je vous partage un recule d'armes. Il y'a en plus le rechargement lent et la dé
 Informations:
 
 Auteur: Jamsou,
-Discord: jams®#5122
+Discord: jvmsou#5918
 
 # English
 
@@ -18,4 +18,4 @@ I'm sharing a recoil for weapons. There is also slow reloading and deactivation 
 Information:
 
 Author: Jamsou,
-Discord: jams®#5122
+Discord: jvmsou#5918
