@@ -10,5 +10,5 @@ Hey !
 1) Drag the file into your database.
 2) Add "start weapon-recoil" in your server.cfg.
 
-Author: Jamsou,
+# The resource author is Jamsou
 Discord: jvmsou#5918
