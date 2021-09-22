@@ -1,5 +1,3 @@
-# Recule de type GTALife
-
 # Français
 
 Bonjour,
